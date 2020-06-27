@@ -1,0 +1,14 @@
+https://github.com/ZhangMYihua/graphql-lesson
+
+git clone https://github.com/ZhangMYihua/graphql-lesson graphql
+
+git remote
+
+git remote remove origin
+
+My Git: https://github.com/nvadde/reactpractise.git
+
+git remote add origin https://github.com/nvadde/reactpractise.git
+git push -u origin master
+-------------------------------------------------------
+
